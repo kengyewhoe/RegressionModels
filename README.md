@@ -1,10 +1,12 @@
 # RegressionModels
+
 ---
 title: "Regression Coursework"
 author: "Hoe Keng Yew"
 date: "15/10/2020"
 output: pdf_document
 ---
+
 # Summary
 This report analyzed the relationship between transmission types and miles per gallon (MPG). The aim of this investigation is to determine which transmission type is more fuel economical (higher MPG value). After the analysis was done, manual transmission cars generally have a higher MPG value however the difference in MPG between automatic and manual transmission is only 1.81. Other factors such as number of cylinders, horsepower and weight of the car have a more significant effect on the MPG value.
 
